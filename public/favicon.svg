@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="shopsync-grad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#6d28d9" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#shopsync-grad)" />
+  <path
+    d="M21 25V22C21 15.9249 25.9249 11 32 11C38.0751 11 43 15.9249 43 22V25"
+    stroke="#ffffff"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+  <path
+    d="M17 25H47L49.5 48.5C49.75 50.9 47.87 53 45.45 53H18.55C16.13 53 14.25 50.9 14.5 48.5L17 25Z"
+    stroke="#ffffff"
+    stroke-width="4"
+    stroke-linejoin="round"
+  />
+  <circle cx="26" cy="34" r="2.5" fill="#ffffff" />
+  <circle cx="38" cy="34" r="2.5" fill="#ffffff" />
+</svg>
